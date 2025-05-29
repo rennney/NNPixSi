@@ -4,9 +4,9 @@
 
 * Introduction
 
-This package provide framework to train deep learning models to perform signal proccessing for LArTPCs with Pixel based anodes.
+This package provides a framework for training deep learning models to perform signal processing for LArTPCs with pixel-based anodes (DUNE ND).
 
-Currently Implemented model is Graph Attention Neural Net
+The currently implemented model is a Graph Attention Neural Network (GAT).
 
 * Install
 
